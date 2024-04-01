@@ -52,3 +52,7 @@ Here's a list of Python topics you should be familiar with for working effective
 
 10. **Parallel and Distributed Computing Concepts**:
     - Understanding the basics of parallel and distributed computing will help you grasp PySpark's underlying architecture and optimization techniques.
+
+   Youtube channels:
+   https://www.youtube.com/@coreyms/playlists
+   
