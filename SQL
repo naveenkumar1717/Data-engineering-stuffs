@@ -1,0 +1,48 @@
+1. **Basic SQL Syntax**:
+   - Understanding how to write SQL queries, including SELECT, INSERT, UPDATE, DELETE statements.
+   - Familiarity with SQL keywords such as SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, JOIN, etc.
+   - Knowledge of SQL clauses like DISTINCT, LIMIT, OFFSET, IN, BETWEEN, LIKE, etc.
+
+2. **Data Definition Language (DDL)**:
+   - Creating and managing database schema using DDL commands such as CREATE TABLE, ALTER TABLE, DROP TABLE, CREATE INDEX, etc.
+   - Understanding primary keys, foreign keys, constraints, and their importance in database design.
+
+3. **Data Manipulation Language (DML)**:
+   - Inserting, updating, and deleting records using INSERT, UPDATE, and DELETE statements.
+   - Modifying data with UPDATE...SET and DELETE...WHERE clauses.
+
+4. **Querying Data**:
+   - Writing SELECT statements to retrieve data from one or more tables.
+   - Filtering data using WHERE clause.
+   - Aggregating data using GROUP BY and aggregate functions like COUNT, SUM, AVG, MIN, MAX.
+   - Filtering grouped data using the HAVING clause.
+
+5. **Joins**:
+   - Understanding different types of joins: INNER JOIN, LEFT JOIN (or LEFT OUTER JOIN), RIGHT JOIN (or RIGHT OUTER JOIN), FULL JOIN (or FULL OUTER JOIN).
+   - Joining multiple tables using JOIN clauses based on common columns.
+
+6. **Subqueries and Derived Tables**:
+   - Writing subqueries to retrieve data from nested queries.
+   - Using derived tables (subqueries in the FROM clause) to simplify complex queries.
+
+7. **Indexes**:
+   - Understanding the concept of indexes and their impact on query performance.
+   - Creating and managing indexes to improve query execution time.
+
+8. **Views**:
+   - Creating and using views to simplify complex queries and provide a virtual representation of data.
+
+9. **Transactions**:
+   - Understanding the concept of transactions and their properties (ACID - Atomicity, Consistency, Isolation, Durability).
+   - Using transactions to ensure data integrity and consistency in database operations.
+
+10. **Data Modeling and Normalization**:
+    - Understanding database normalization principles (1NF, 2NF, 3NF) and their importance in database design.
+    - Designing efficient database schemas to minimize data redundancy and improve data integrity.
+
+11. **Data Definition and Data Manipulation**:
+    - Working with SQL commands to define database structure and manipulate data, including creating and altering tables, as well as inserting, updating, and deleting records.
+
+12. **Performance Optimization**:
+    - Optimizing SQL queries for better performance by analyzing query execution plans, indexing strategies, and query tuning techniques.
+
