@@ -46,3 +46,6 @@
 12. **Performance Optimization**:
     - Optimizing SQL queries for better performance by analyzing query execution plans, indexing strategies, and query tuning techniques.
 
+youtube:
+https://www.youtube.com/watch?v=9Pzj7Aj25lw&list=PLD20298E653A970F8
+
